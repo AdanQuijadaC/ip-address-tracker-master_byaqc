@@ -4,8 +4,8 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/AdanQuijadaC/ip-address-tracker-master_byaqc
+- Live Site URL: https://eclectic-scone-fdd983.netlify.app/
 
 ### Built with
 
